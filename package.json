@@ -1,0 +1,12 @@
+{
+  "name": "website-extractor",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "website-scraper": "^5.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node extractor.js"
+  }
+}
